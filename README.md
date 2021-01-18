@@ -1,6 +1,6 @@
 # 2021-world_leaders_trips
 
-## Vote difference in key battleground states
+## World leaders foreign trips between 2001 and 2020 
 
 Data is collected from various sources.
 
