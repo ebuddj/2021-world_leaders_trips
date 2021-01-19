@@ -35,6 +35,6 @@ This visualization is part of the EBU News Exchange’s Data Journalism project.
 
 The material may be used only by [Eurovision active members and sub-licensees](https://www.ebu.ch/eurovision-news/members-and-sublicensees).
 
-You may use this data with the condition that you refer the original published Yle Uutiset and link to their [original story](https://yle.fi/uutiset/3-11662994) when possible.
+You may use this data with the condition that you refer the original publisher Yle and link to their [original story](https://yle.fi/uutiset/3-11662994) when possible.
 
 Please also report to Teemo Tebest (tebest@ebuc.h) for analytics purposes if you use this data.
