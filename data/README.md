@@ -1,5 +1,6 @@
 # Data
-
+| Column name   | Description          
+| ------------- |-------------  
 | Country of president | The country of president
 | President name | The name of the president
 | Destination country | The destination country
