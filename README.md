@@ -12,7 +12,7 @@ Data for China was collected from China Vitae which has data since 2003. Between
 
 The data is unified and holds data for 952 trips between 2001 and 2020.
 
-[Original story](https://yle.fi/uutiset/3-11662994) by Yle/Finland.
+The data has been collected and sourced by Yle/Finland. [Original story](https://yle.fi/uutiset/3-11662994) by Yle/Finland.
 
 **Sources**
 * Kreml
