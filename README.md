@@ -38,7 +38,3 @@ The material may be used only by [Eurovision active members and sub-licensees](h
 You may use this data with the condition that you refer the original published Yle Uutiset and link to their [original story](https://yle.fi/uutiset/3-11662994) when possible.
 
 Please also report to Teemo Tebest (tebest@ebuc.h) for analytics purposes if you use this data.
-
-## How to build and develop
-
-Please refer to the `data/data.csv` file.
