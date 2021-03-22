@@ -1,6 +1,6 @@
 # 2021-world_leaders_trips
 
-## World leaders foreign trips between 2001 and 2020 
+## World leaders foreign trips between 2001 and 2020 (Yle/Finland)
 
 Data is collected from various sources.
 
